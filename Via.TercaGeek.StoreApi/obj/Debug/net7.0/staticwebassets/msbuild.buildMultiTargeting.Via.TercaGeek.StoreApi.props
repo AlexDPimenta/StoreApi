@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Via.TercaGeek.StoreApi.props" />
+</Project>

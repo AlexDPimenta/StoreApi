@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Via.TercaGeek.StoreApi.props" />
+</Project>
